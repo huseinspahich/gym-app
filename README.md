@@ -7,7 +7,7 @@ Follow the instructions below to get local copy up and running.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/huseinspahich/gym-app.git
    ```
 2. Install NPM packages
    ```sh
