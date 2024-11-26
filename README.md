@@ -1,7 +1,7 @@
 
 ## About The Project
 A fully responsive gym website built with React.js, featuring a modern and user-friendly UI, designed to provide a seamless experience for gym members.    
-
+  
 ## Getting Started
 Follow the instructions below to get local copy up and running.
 ### Installation
