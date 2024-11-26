@@ -6,7 +6,7 @@ A fully responsive gym website built with React.js, featuring a modern and user-
 Follow the instructions below to get local copy up and running.
 ### Installation
 1. Clone the repo
-   ```sh
+   ```sh 
    git clone https://github.com/huseinspahich/gym-app.git
    ```
 2. Install NPM packages
